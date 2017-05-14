@@ -1,0 +1,30 @@
+A use case diagram at its simplest is a representation of a user's interaction with the system that shows the relationship between the user and the different use cases in which the user is involved. A use case diagram can identify the different types of users of a system and the different use cases and will often be accompanied by other types of diagrams as well.
+
+
+
+o model a system the most important aspect is to capture the dynamic behaviour. To clarify a bit in details, dynamic behaviour means the behaviour of the system when it is running /operating.
+
+So only static behaviour is not sufficient to model a system rather dynamic behaviour is more important than static behaviour. In UML there are five diagrams available to model dynamic nature and use case diagram is one of them. Now as we have to discuss that the use case diagram is dynamic in nature there should be some internal or external factors for making the interaction.
+
+These internal and external agents are known as actors. So use case diagrams are consists of actors, use cases and their relationships. The diagram is used to model the system/subsystem of an application. A single use case diagram captures a particular functionality of a system.
+
+So to model the entire system numbers of use case diagrams are used.
+
+Purpose
+The purpose of use case diagram is to capture the dynamic aspect of a system. But this definition is too generic to describe the purpose.
+
+Because other four diagrams (activity, sequence, collaboration and Statechart) are also having the same purpose. So we will look into some specific purpose which will distinguish it from other four diagrams.
+
+Use case diagrams are used to gather the requirements of a system including internal and external influences. These requirements are mostly design requirements. So when a system is analyzed to gather its functionalities use cases are prepared and actors are identified.
+
+Now when the initial task is complete use case diagrams are modelled to present the outside view.
+
+So in brief, the purposes of use case diagrams can be as follows:
+
+Used to gather requirements of a system.
+
+Used to get an outside view of a system.
+
+Identify external and internal factors influencing the system.
+
+Show the interacting among the requirements are actors.

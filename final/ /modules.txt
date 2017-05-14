@@ -1,0 +1,9 @@
+Login/Signup Module-Lets the already existing user login and enables a new user to register
+
+Cart Module -Maintains all the information of the products added into the cart 
+  
+User Module-Keeps a track of the user profile eg Order details,wishlist,personal details,etc
+
+Payment Module-Has various options of payment like credit card,debit card,paypal,COD,netbanking
+
+Admin Module-To add new products into the online store 

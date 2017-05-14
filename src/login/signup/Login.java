@@ -1,6 +1,5 @@
 package login.signup;
 import java.sql.*;
-
 public class Login
 {
 	@SuppressWarnings("finally")
@@ -12,16 +11,14 @@ public class Login
 			Class.forName("com.mysql.jdbc.Driver");
 			 con=DriverManager.getConnection("jdbc:mysql://localhost:3306/"+DB, "root", "root");
 			
-		//	return con;
+			return con;
 			
 		}
 		catch(Exception e)
 		{
 			e.printStackTrace();
-		}
-		finally
-		{
-			return con; 
+			System.out.println("return null as connection");
+			return con;
 		}
 	}
 }

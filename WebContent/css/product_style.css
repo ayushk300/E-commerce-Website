@@ -1,0 +1,79 @@
+.items
+{
+		padding: 2% 3%;
+		  width: 60%;
+		  background-color: #fff;
+		  margin: 10px auto 0;
+		  border-radius: 2px;
+		  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+		  overflow: hidden;
+}
+.items img
+{
+	width:28%;
+	margin-right:3%;
+	float:left;
+	height:200px;
+	background-color: green;
+}
+.items .description 
+{
+	width:66%; 
+	float:left;
+	height:150px;
+	margin-left:3%;
+	text-align:center;		
+}
+.items .description a
+{
+	text-decoration:none;
+	display:inline-block;
+	line-height:50px;
+	float:left;
+	text-align:center;
+	width:100%;
+	font-size:30px;
+	}
+.items .extra 
+{
+	text-decoration:none;
+	font-family:calibri;
+	font-style:italic;
+	margin:2% auto 0;
+	text-align:center;
+	float:left;
+	width:33%;
+}
+.items p
+{
+	text-decoration:none;
+	font-family:calibri;
+	font-style:italic;
+	text-align:center;
+	float:left;
+		width:33%;
+		margin:2% auto 0;
+}
+.items .warrcolor
+{
+	text-decoration:none;
+	font-family:calibri;
+	font-style:italic;
+	text-decoration:none;
+	font-family:calibri;
+	font-style:italic;
+	text-align:center;
+	float:left;
+		width:33%;
+		margin:2% auto 0;
+}
+.items span
+{	
+text-decoration:none;
+	font-family:calibri;
+	font-style:italic;
+	text-align:center;
+	float:left;
+		width:33%;
+		margin:2% auto 0;
+}
